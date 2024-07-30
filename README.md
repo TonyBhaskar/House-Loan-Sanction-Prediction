@@ -1,4 +1,4 @@
-# House-Loan-Sanction-Prediction
+# House Loan Sanction Prediction
 
 A web application that predicts whether a home loan will be sanctioned based on user input data.
 
